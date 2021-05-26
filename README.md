@@ -4,8 +4,6 @@ The attached project is the first step of simple compiler construction, that gen
 ## About CBaby Language
 A new programming language is taken as an example which introduces the basics of programming using a simpler version of C++ language. The task is to develop a lexical analyzer for this language.
 
-<br />
-
 This programming language has basic features to print data, read data, take input
 from user perform arithmetic operations and compressions of value. Currently, it
 supports only integer and single literal character to store the data. A brief description of main
