@@ -19,7 +19,7 @@ element take makes up the language is as follow:
 &nbsp;  &bull;	 **Function declaration statement:** func <br />
 &nbsp;  &bull;	 **Write data statement:** print (print and remain on same line), println (print and move to next line) <br />
 3. **Arithmetic Operators:** + -
-4. **Relational operators:** < <= / > >= = /=
+4. **Relational operators:** < <= > >= == /=
 5. **Comments:** /* enclose comment in */
 6. **Identifier:** a letter followed by any number of letters or digits
 7. **Numeric constants:** only integers
