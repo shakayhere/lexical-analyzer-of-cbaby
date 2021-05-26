@@ -1,7 +1,7 @@
 # Lexical Analyzer Of CBaby
 The attached project is the first step of simple compiler construction, that generates tokens after lexical analysis of language (defined by rules) called CBaby
 
-## About CBaby
+## About CBaby Language
 A new programming language is taken as an example which introduces the basics of programming using a simpler version of C++ language. The task is to develop a lexical analyzer for this language.
 
 <br />
