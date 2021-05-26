@@ -101,7 +101,7 @@ func void write(char: j)
 Enter path/filename for lexical analysis: test.cbaby
 Could not identify lexeme pattern in line 3
 3       &^%&^print(j);
-It is not a part of GO language. Please check your file and try again!
+It is not a part of CBaby language. Please check your file and try again!
 ```
 
 </td>
