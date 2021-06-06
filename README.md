@@ -137,10 +137,17 @@ Execution successful. Please check textfile for generated tokens!
 
 <table>
 <tr>
+<th>test.cbaby</th>
 <th>tokens.txt</th>
 <th>tokens(readable).txt</th>
 </tr>
 <tr>
+<td>
+func void write(char: j)<br />
+{<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	print(j);<br />
+}<br />
+</td>
 <td>
 <pre>
 (FUNC,^)
