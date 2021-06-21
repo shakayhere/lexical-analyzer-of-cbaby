@@ -126,7 +126,7 @@ public class Source {
     
     static boolean checkLiteralConstant(String x)
     {
-        if(x.startsWith("'") || x.endsWith("'"))
+        if(x.startsWith("'") && x.endsWith("'"))
         {
             return true;
         }
@@ -493,7 +493,7 @@ public class Source {
             myWriter.write("\n");
         }
         
-        System.out.println("Execution successful. Please check textfile for generated tokens!");                                
+        System.out.println("Execution successful. Check textfile for generated tokens!");                                
         
         // Closing all file writers and readers
         myWriter.close();
